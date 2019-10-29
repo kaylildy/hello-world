@@ -1,2 +1,3 @@
 # hello-world
 this is a new repository for reviewing github...
+today is 29/10 2019 ,Tuesday a good day sunshine wind flower smile good!
